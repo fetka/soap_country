@@ -19,3 +19,4 @@ https://github.com/eugenp/tutorials/blob/master/spring-soap/src/main/java/com/ba
 [@ResponsePayload]  – indicates that this method returns a value to be mapped to the response payload
 [@RequestPayload]   – indicates that this method accepts a parameter to be mapped from the incoming request
 [@EnableWs]         – enables SOAP Web Service features in this Spring Boot application.
+
