@@ -20,3 +20,4 @@ https://github.com/eugenp/tutorials/blob/master/spring-soap/src/main/java/com/ba
 [@RequestPayload]   – indicates that this method accepts a parameter to be mapped from the incoming request
 [@EnableWs]         – enables SOAP Web Service features in this Spring Boot application.
 
+new line
